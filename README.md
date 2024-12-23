@@ -13,5 +13,5 @@
 - *GitHub Milestones* для планирования спринтов 
 - *Markdown для оформления* документации 
 ## Состав команды
-- Волков.М.Д: getomura
-- Жалилов.А.А: 
+- Волков.М.Д: ([getomura](https://github.com/getomura))
+- Жалилов.А.А: ([artemzhalil]([https://github.com/getomura](https://github.com/artemzhalil/)))
