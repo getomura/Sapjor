@@ -14,4 +14,4 @@
 - *Markdown для оформления* документации 
 ## Состав команды
 - Волков.М.Д: ([getomura](https://github.com/getomura))
-- Жалилов.А.А: ([artemzhalil]([https://github.com/getomura](https://github.com/artemzhalil/)))
+- Жалилов.А.А: ([artemzhalil](https://github.com/artemzhalil/))
