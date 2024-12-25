@@ -12,7 +12,7 @@ class Minesweeper:
         self.initialize_board()
 
     def initialize_board(self):
-        # Размещение мин случайным образом.
+        # Размещение мин случайным образом
         mines_placed = 0
         while mines_placed < self.mines:
             x = random.randint(0, self.size - 1)
